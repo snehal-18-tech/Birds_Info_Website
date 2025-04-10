@@ -1,0 +1,6 @@
+PHP Version 7.4.14
+Apache/2.4.46 
+Storage Engine for database: InnoDB
+phpMyAdmin Version: 5.0.4
+
+Used MySQLi Object-oriented way to fetch data and database connection.
